@@ -2,7 +2,7 @@
 
 ## Important concepts:
 * **Operating System:** An operating system provides all the fundamental software features of a computer.
-  
+* 
 * **Kernel:** A kernel is a software component that's responsible for managing low-level features of the computer such as memory allocation, CPU time, and program to program interaction.
   
 * **Components of an operating system:** The components of an operating system are Command-Line Shells, Graphical User Interfaces, Utility and Productivity Programs, and Libraries.
